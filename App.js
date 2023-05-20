@@ -7,7 +7,7 @@ import CurrentWeather from './src/screens/CurrentWeather'
 const App = () => {
   return (
     <View style={styles.container}>
-      <City />
+      <CurrentWeather />
     </View>
   )
 }
